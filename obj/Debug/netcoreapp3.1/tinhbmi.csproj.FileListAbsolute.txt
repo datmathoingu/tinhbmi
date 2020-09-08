@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\tinhbmi\bin\Debug\netcoreapp3.1\tinhbmi.exe
+C:\Users\Admin\source\repos\tinhbmi\bin\Debug\netcoreapp3.1\tinhbmi.deps.json
+C:\Users\Admin\source\repos\tinhbmi\bin\Debug\netcoreapp3.1\tinhbmi.runtimeconfig.json
+C:\Users\Admin\source\repos\tinhbmi\bin\Debug\netcoreapp3.1\tinhbmi.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\tinhbmi\bin\Debug\netcoreapp3.1\tinhbmi.dll
+C:\Users\Admin\source\repos\tinhbmi\bin\Debug\netcoreapp3.1\tinhbmi.pdb
+C:\Users\Admin\source\repos\tinhbmi\obj\Debug\netcoreapp3.1\tinhbmi.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\tinhbmi\obj\Debug\netcoreapp3.1\tinhbmi.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\tinhbmi\obj\Debug\netcoreapp3.1\tinhbmi.AssemblyInfo.cs
+C:\Users\Admin\source\repos\tinhbmi\obj\Debug\netcoreapp3.1\tinhbmi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tinhbmi\obj\Debug\netcoreapp3.1\tinhbmi.dll
+C:\Users\Admin\source\repos\tinhbmi\obj\Debug\netcoreapp3.1\tinhbmi.pdb
+C:\Users\Admin\source\repos\tinhbmi\obj\Debug\netcoreapp3.1\tinhbmi.genruntimeconfig.cache
